@@ -1,0 +1,32 @@
+# ATS Score 
+85
+
+# Resume Summary 
+The resume belongs to Aryan Singh Jadaun, a GenAI Developer, Machine Learning Engineer, and Full Stack Developer with experience in Agentic AI, RAG, and multi-agent systems. The candidate has a strong technical background, with proficiency in programming languages such as Python, Java, and JavaScript. The resume highlights the candidate's experience in AI web development, Agentic AI, and machine learning, with a focus on full-stack development, DevOps, and cloud computing.
+
+# Technical Skills Found 
+- Programming Languages: Python, Java, JavaScript, TypeScript, C, Bash, SQL
+- Generative AI and Agentic Systems: Generative AI, Agentic AI, LangChain, LangGraph, RAG, LLM Integration
+- Backend and API Development: FastAPI, Flask, Node.js, Express.js, REST APIs, JWT Authentication
+- Machine Learning and Deep Learning: TensorFlow, PyTorch, Scikit-Learn, Computer Vision, NLP
+- DevOps and Cloud: AWS, Docker, Jenkins, CI/CD, GitHub Actions, Git, Linux Server Management
+- Databases and Deployment: PostgreSQL, MySQL, AWS Deployment, Render, Vercel, Netlify
+
+# Strength 
+- The candidate has a strong technical background with a wide range of skills in programming languages, AI, machine learning, and cloud computing.
+- The candidate has experience in full-stack development, DevOps, and cloud computing, making them a versatile candidate.
+- The candidate has a strong portfolio with projects such as AgentForge and Legally, demonstrating their ability to apply technical skills to real-world problems.
+- The candidate has certifications in Microsoft Azure Fundamentals and Microsoft AI Fundamentals, demonstrating their commitment to ongoing learning and professional development.
+
+# Weakness
+- The candidate's work experience is limited to internships, which may not provide the same level of responsibility and challenge as full-time employment.
+- The candidate's education is still in progress, which may be a concern for some employers who prefer candidates with completed degrees.
+- The candidate's resume could benefit from more specific examples of accomplishments and impact in their work experience and projects.
+
+# Missing Skills 
+- The candidate's resume does not mention soft skills such as communication, teamwork, or leadership, which are essential for success in most roles.
+- The candidate's resume does not mention experience with data analytics or data science, which may be relevant to some roles in AI and machine learning.
+- The candidate's resume does not mention experience with cybersecurity, which is an increasingly important consideration in the field of AI and machine learning.
+
+# HR Feedback 
+Aryan Singh Jadaun's resume demonstrates a strong technical foundation and a clear passion for AI and machine learning. To take their career to the next level, we recommend focusing on developing soft skills, seeking out full-time employment opportunities, and continuing to build a strong portfolio of projects and certifications. Additionally, considering the rapidly evolving nature of the field, it's essential to stay up-to-date with the latest developments and advancements in AI and machine learning. With further development and experience, Aryan has the potential to become a highly skilled and versatile professional in the field of AI and machine learning.
