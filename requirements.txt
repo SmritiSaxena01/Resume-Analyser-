@@ -1,0 +1,5 @@
+pymupdf
+groq
+python-dotenv
+gradio
+PyPDF2
