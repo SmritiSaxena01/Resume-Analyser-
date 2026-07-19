@@ -1,15 +1,59 @@
-# Environment variables
+# Environment variables / secrets
 .env
 .env.local
-.env.*
-.env.development.local
-.env.test.local
-.env.production.local
+.env.*.local
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Python caching
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+.venv.bak/
+env.bak/
+ENV.bak/
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output/log files
+*.log
